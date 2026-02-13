@@ -80,7 +80,7 @@
 ---
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=coding4deep&show_icons=true&theme=radical&count_private=true" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=sagarDeepakDevOps&show_icons=true&theme=radical&count_private=true" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=coding4deep&theme=radical" />
 </p>
 
