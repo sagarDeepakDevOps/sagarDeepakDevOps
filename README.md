@@ -35,7 +35,7 @@
 <!-- Subtle GIF banner (DevOps/cloud themed) -->
 <p align="center">
   <!-- GIF sourced from Anmol-Baranwal/Cool-GIFs-For-GitHub -->
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" alt="cloud-automation" width="760" style="max-width:100%;border-radius:10px;opacity:0.95;" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="cloud-automation" width="760" style="max-width:100%;border-radius:10px;opacity:0.95;" />
 </p>
 
 ---
@@ -160,7 +160,7 @@
 ## DevOps Activity & Stats
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=sagarDeepakDevOps&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" />
+  <!-- <img width="47%" src="https://github-readme-stats.vercel.app/api?username=sagarDeepakDevOps&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" /> -->
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarDeepakDevOps&theme=radical" alt="Streak" />
 </p>
 
