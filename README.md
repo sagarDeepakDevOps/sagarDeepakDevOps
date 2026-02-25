@@ -215,7 +215,7 @@
   <td valign="top" width="33%" style="padding:8px;">
   <div style="background:rgba(255,255,255,0.03);backdrop-filter:blur(6px);border-radius:12px;padding:14px;box-shadow:0 6px 18px rgba(2,6,23,0.6);">
     
-<h2 style="margin:6px 0 8px 0;color:#9AE6B4;">5 Microservices Application on Kubernetes</h2>
+<h2 style="margin:6px 0 8px 0;color:#9AE6B4;">Microservices Application on Kubernetes</h2>
 
 <p style="margin:0 0 8px 0;color:#cbd5e1;font-size:13px;line-height:1.35;">
 Designed and deployed a containerized microservices application consisting of five independent services on Kubernetes. 
@@ -238,10 +238,11 @@ Focused on scalability, fault isolation, and production-style container orchestr
 
   </div>
 </td>
+
 <td valign="top" width="33%" style="padding:8px;">
   <div style="background:rgba(255,255,255,0.03);backdrop-filter:blur(6px);border-radius:12px;padding:14px;box-shadow:0 6px 18px rgba(2,6,23,0.6);">
 
-<h3 style="margin:6px 0 8px 0;color:#9AE6B4;">AWS EKS Infrastructure Automation</h3>
+<h2 style="margin:6px 0 8px 0;color:#9AE6B4;">AWS EKS Infrastructure Automation</h2>
 
 <p style="margin:0 0 8px 0;color:#cbd5e1;font-size:13px;line-height:1.35;">
 End-to-end AWS infrastructure provisioning using Terraform and Ansible. 
