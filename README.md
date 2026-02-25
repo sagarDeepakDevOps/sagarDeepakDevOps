@@ -60,58 +60,38 @@
 <!-- Orchestration & Containers -->
 
 **Orchestration & Containers**<br>
-
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-<br><br>
-
+<br>
 **CI / CD & GitOps**<br>
-
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-
 <br>
-
 **Infrastructure as Code**<br>
-
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
-
 <br>
-
 **Cloud & Platform**<br>
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
 <br>
-
 **Observability & Logging**<br>
-
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-0E5A8A?style=for-the-badge&logo=grafana&logoColor=white)
 ![Tempo](https://img.shields.io/badge/Tempo-4254F5?style=for-the-badge&logo=grafana&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-
 <br>
-
 **Security & Repos**<br>
-
 ![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-
 <br>
-
 **Languages & Tools**<br>
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 </div>
 
 ---
@@ -152,41 +132,10 @@
       </div>
     </td>
 
-    <td valign="top" width="33%" style="padding:8px;">
-      <div style="background:rgba(255,255,255,0.03);backdrop-filter:blur(6px);border-radius:12px;padding:14px;box-shadow:0 6px 18px rgba(2,6,23,0.6);">
-        <h3 style="margin:6px 0 8px 0;color:#9AE6B4;">Terraform + Ansible EKS Automation</h3>
-        <p style="margin:0 0 8px 0;color:#cbd5e1;font-size:13px;line-height:1.3;">IAC pipeline provisioning AWS EKS clusters with Terraform and post-provisioning via Ansible for secure, consistent deployments.</p>
-        <p style="margin:8px 0;">
-          <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-          <img src="https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" />
-        </p>
-        <p style="margin-top:10px;">
-          <a href="https://github.com/sagarDeepakDevOps/terraform-ansible-eks-project">
-            <img src="https://img.shields.io/badge/View%20Repository-GitHub-%23181717?style=for-the-badge&logo=github" alt="Repo" />
-          </a>
-        </p>
-      </div>
-    </td>
-
-    <td valign="top" width="33%" style="padding:8px;">
-      <div style="background:rgba(255,255,255,0.03);backdrop-filter:blur(6px);border-radius:12px;padding:14px;box-shadow:0 6px 18px rgba(2,6,23,0.6);">
-        <h3 style="margin:6px 0 8px 0;color:#9AE6B4;">Kubernetes Multi-Microservice App</h3>
-        <p style="margin:0 0 8px 0;color:#cbd5e1;font-size:13px;line-height:1.3;">Five microservices containerized and deployed with clear service networking, health checks, and scaling rules.</p>
-        <p style="margin:8px 0;">
-          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="K8s" />
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-        </p>
-        <p style="margin-top:10px;">
-          <a href="https://github.com/sagarDeepakDevOps/5microservice-app">
-            <img src="https://img.shields.io/badge/View%20Repository-GitHub-%23181717?style=for-the-badge&logo=github" alt="Repo" />
-          </a>
-        </p>
-      </div>
-    </td>
   </tr>
 
   <tr>
-    <td valign="top" width="33%" style="padding:8px;">
+   <td valign="top" width="33%" style="padding:8px;">
       <div style="background:rgba(255,255,255,0.03);backdrop-filter:blur(6px);border-radius:12px;padding:14px;box-shadow:0 6px 18px rgba(2,6,23,0.6);">
         <h3 style="margin:6px 0 8px 0;color:#9AE6B4;">Kubeadm Kubernetes Cluster</h3>
         <p style="margin:0 0 8px 0;color:#cbd5e1;font-size:13px;line-height:1.3;">Hands-on kubeadm cluster creation and networking with documented steps for production readiness.</p>
@@ -202,29 +151,7 @@
       </div>
     </td>
 
-    <td valign="top" width="33%" style="padding:8px;">
-      <div style="background:rgba(255,255,255,0.03);backdrop-filter:blur(6px);border-radius:12px;padding:14px;box-shadow:0 6px 18px rgba(2,6,23,0.6);">
-        <h3 style="margin:6px 0 8px 0;color:#9AE6B4;">Enterprise Cloud Migration</h3>
-        <p style="margin:0 0 8px 0;color:#cbd5e1;font-size:13px;line-height:1.3;">On-Prem → Azure migration work: containerization, Functions, Blob & Key Vault, and pipeline automation (private engagement).</p>
-        <p style="margin:8px 0;">
-          <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" />
-          <img src="https://img.shields.io/badge/KeyVault-2D2D2D?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Key Vault" />
-        </p>
-        <p style="margin-top:10px;color:#94a3b8;">Private engagement — architecture available on request</p>
-      </div>
-    </td>
 
-    <td valign="top" width="33%" style="padding:8px;">
-      <div style="background:rgba(255,255,255,0.03);backdrop-filter:blur(6px);border-radius:12px;padding:14px;box-shadow:0 6px 18px rgba(2,6,23,0.6);">
-        <h3 style="margin:6px 0 8px 0;color:#9AE6B4;">Additional Tools & Integrations</h3>
-        <p style="margin:0 0 8px 0;color:#cbd5e1;font-size:13px;line-height:1.3;">CI/CD alignment, monitoring, security scanning, artifact repos and developer workflows for enterprise teams.</p>
-        <p style="margin:8px 0;">
-          <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog" />
-          <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk" />
-        </p>
-        <p style="margin-top:10px;color:#94a3b8;">Contact for architecture details and engagement scope</p>
-      </div>
-    </td>
   </tr>
 </table>
 
@@ -250,24 +177,9 @@ If you need help with:
 - Infrastructure stabilization
 - Monitoring & Observability setup
 
-**Email:** [sagardeepak2002@gmail.com](mailto:sagardeepak2002@gmail.com)
-
-**GitHub:** [sagarDeepakDevOps](https://github.com/sagarDeepakDevOps)
-
----
-
-## Contact & Connect
-
 <p align="center">
   <a href="mailto:sagardeepak2002@gmail.com"><img src="https://img.shields.io/badge/Email-sagardeepak2002@gmail.com-6ee7b7?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
-</p>
-
----
-
-<p align="center">
-  <small style="color:#94a3b8;">This README focuses on professional DevOps consulting, concise project highlights, and clear engagement pathways. For architecture docs or deeper case studies, reach out directly.</small>
-</p>
+ </p>
