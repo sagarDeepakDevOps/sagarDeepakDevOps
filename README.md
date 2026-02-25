@@ -175,7 +175,7 @@
 
 ---
 
-## DevOps Activity & Stats
+## Activity & Stats
 
 <p align="center">
   <!-- <img width="47%" src="https://github-readme-stats.vercel.app/api?username=sagarDeepakDevOps&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" /> -->
