@@ -27,7 +27,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sagarDeepakDevOps&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   &nbsp; &nbsp;
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Freelance-blueviolet?style=flat-square&logo=briefcase" alt="Available" />
+  <img src="https://img.shields.io/badge/Status-Available-blueviolet?style=flat-square&logo=briefcase" alt="Available" />
 </p>
 
 ---
