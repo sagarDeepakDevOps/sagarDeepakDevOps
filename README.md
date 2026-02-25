@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Deepak Sagar</h1>
-<h3 align="center">A passionate DevOps engineer skilled in designing, automating, and optimizing scalable infrastructure and CI/CD pipelines. With hands-on experience in AWS, Docker, Kubernetes, Jenkins, Terraform, Linux, Git, and modern monitoring tools, I specialize in building reliable DevOps ecosystems that boost deployment speed, system reliability, and developer productivity</h3>
+<h1 align="center">Hi , I'm Deepak Sagar</h1>
+
+<h3 align="center">
+Freelance DevOps & Cloud Engineer | AWS • Azure • Kubernetes • CI/CD • Infrastructure as Code
+</h3>
+
+<p align="center">
+I help startups and growing tech teams design, automate, and stabilize production-ready cloud infrastructure.
+From Kubernetes orchestration to CI/CD pipelines and cloud migrations — I build reliable DevOps ecosystems that improve deployment speed, scalability, and system resilience.
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sagarDeepakDevOps&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -7,7 +15,21 @@
 
 ---
 
-##  Tech Stack & Tools
+##  What I Do
+
+- Design scalable AWS & Azure architectures
+- Build Kubernetes-based production environments
+- Implement CI/CD pipelines (Jenkins, GitHub Actions)
+- Automate infrastructure using Terraform & Ansible
+- Containerize applications using Docker
+- Set up monitoring & observability stacks
+- Perform cloud migrations (On-Prem → Cloud)
+- Improve reliability & cost optimization
+
+---
+
+##  Tech Stack
+
 
 <div align="center">
 
@@ -53,40 +75,76 @@
 </div>
 
 
----
 
-# Projects  ## 
-
--  CI/CD Java & Nodejs Pipeline: [CI/CD](https://github.com/Coding4Deep/Nodejs-Java-CI-CD.git)
--  java-maven deployment to tomcat: [Tomcat Deployment](https://github.com/Coding4Deep/JENKINS-maven-nexus-sonar-project.git)
--  Kubernetes project & Tutorial: [kubernetes](https://github.com/Coding4Deep/kubernetes.git)
--  3-Tier Spring-Boot MongoDB,Memcached,RabbitMQ: [Spring-Boot](https://github.com/Coding4Deep/3-tier-spring-mongo.git)
 
 ---
 
-## Connect with me
+#  Featured Projects
 
-<p align="left">
-  &nbsp;&nbsp;
-  <a href="mailto:sagardeepak2002@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Email" width="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Coding4Deep" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" width="30" />
-  </a>
-</p>
+## 🔹 CloudForgeOps – DevOps Consulting Website
+Production-ready freelance DevOps website built with Next.js 14.
+
+🔗 https://github.com/YOUR_USERNAME/cloudforgeops-website
 
 ---
+
+## 🔹 Terraform + Ansible EKS Automation
+Infrastructure-as-Code setup provisioning AWS EKS cluster using Terraform with configuration management via Ansible.
+
+🔗 https://github.com/sagarDeepakDevOps/terraform-ansible-eks-project
+
+---
+
+## 🔹 Kubernetes Multi-Microservice Application
+5-microservice containerized application deployed on Kubernetes with service networking and scaling.
+
+🔗 https://github.com/sagarDeepakDevOps/5microservice-app
+
+---
+
+## 🔹 Kubeadm Kubernetes Cluster Setup
+Manual Kubernetes cluster setup using kubeadm with networking, worker nodes, and scaling configuration.
+
+🔗 https://github.com/sagarDeepakDevOps/Kubeadm-k8s-Cluster
+
+---
+
+
+## 🔹 Enterprise Cloud Migration
+On-Prem to Azure migration including:
+
+- Containerization
+- Azure Functions integration
+- Blob Storage & Key Vault setup
+- Multi-environment pipeline automation
+- CI/CD alignment
+
+(Private engagement – architecture available on request)
+
+---
+
+# 📈 DevOps Activity
 
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=sagarDeepakDevOps&show_icons=true&theme=radical&count_private=true" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=coding4deep&theme=radical" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarDeepakDevOps&theme=radical" />
 </p>
 
-<p align="center">
-  <img width="95%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding4deep&layout=compact&theme=radical&langs_count=10" />
-</p>
+---
+
+#  Available For Freelance DevOps Work
+
+If you need help with:
+
+- Cloud infrastructure setup
+- Kubernetes deployment
+- CI/CD automation
+- Migration to AWS or Azure
+- Infrastructure stabilization
+- Monitoring & Observability setup
+
+ Email: sagardeepak2002@gmail.com  
+ GitHub: https://github.com/sagarDeepakDevOps  
 
 ---
 <p align="center">
