@@ -21,8 +21,7 @@
 <p align="center">
   <strong>Freelance DevOps & Cloud Engineer</strong> — AWS • Azure • Kubernetes • CI/CD • Infrastructure as Code
 </p>
-
-<p align="center">I help startups and growing tech teams design, automate, and stabilize production-ready cloud infrastructure. From Kubernetes orchestration to CI/CD pipelines and cloud migrations — I build reliable DevOps ecosystems that improve deployment speed, scalability, and system resilience.</p>
+<p align="center">I help startups and growing tech teams design, automate, and stabilize production-ready cloud infrastructure. From Kubernetes orchestration to CI/CD pipelines and cloud migrations — I build reliable DevOps ecosystems that improve deployment speed, scalability, and resilience.</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sagarDeepakDevOps&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
