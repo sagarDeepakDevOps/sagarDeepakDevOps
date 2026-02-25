@@ -32,13 +32,9 @@
 
 ---
 
-<!-- Subtle GIF banner (DevOps/cloud themed) -->
 <p align="center">
-  <!-- GIF sourced from Anmol-Baranwal/Cool-GIFs-For-GitHub -->
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="cloud-automation" width="760" style="max-width:100%;border-radius:10px;opacity:0.95;" />
+  <img src="https://github.com/sagarDeepakDevOps/sagarDeepakDevOps/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
----
 
 ## What I Do
 
@@ -111,6 +107,15 @@
 <br>
 
 </div>
+
+---
+
+<!-- Subtle GIF banner (DevOps/cloud themed) -->
+<p align="center">
+  <!-- GIF sourced from Anmol-Baranwal/Cool-GIFs-For-GitHub -->
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="cloud-automation" width="760" style="max-width:100%;border-radius:10px;opacity:0.95;" />
+</p>
+
 
 ---
 
@@ -265,8 +270,6 @@ repeatable Kubernetes environments and managing cloud infrastructure at scale.
 </table>
 
 ---
-
-![Snake animation](https://github.com/sagarDeepakDevOps/sagarDeepakDevOps/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## 📊 Activity & Stats
 
