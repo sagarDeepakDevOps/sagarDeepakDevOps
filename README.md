@@ -266,6 +266,8 @@ repeatable Kubernetes environments and managing cloud infrastructure at scale.
 
 ---
 
+![Snake animation](https://github.com/sagarDeepakDevOps/sagarDeepakDevOps/blob/output/github-contribution-grid-snake-dark.svg)
+
 ## 📊 Activity & Stats
 
 <p align="center">
