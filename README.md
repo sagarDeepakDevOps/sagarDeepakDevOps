@@ -136,11 +136,12 @@
   <tr>
     <td valign="top" width="33%" style="padding:8px;">
       <div style="background:rgba(255,255,255,0.03);backdrop-filter:blur(6px);border-radius:12px;padding:14px;box-shadow:0 6px 18px rgba(2,6,23,0.6);">
-        <h3 style="margin:6px 0 8px 0;color:#9AE6B4;">CloudForgeOps — DevOps Consulting</h3>
+        <h2 style="margin:6px 0 8px 0;color:#9AE6B4;">CloudForgeOps — DevOps Consulting</h2>
         <p style="margin:0 0 8px 0;color:#cbd5e1;font-size:13px;line-height:1.3;">Production-ready freelance DevOps website and consultancy platform built with Next.js for client engagements.</p>
         <p style="margin:8px 0;">
           <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
           <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+          <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
         </p>
         <p style="margin-top:10px;">
           <a href="https://github.com/YOUR_USERNAME/cloudforgeops-website" rel="nofollow">
@@ -149,17 +150,14 @@
         </p>
       </div>
     </td>
-
-  </tr>
-
-  <tr>
    <td valign="top" width="33%" style="padding:8px;">
       <div style="background:rgba(255,255,255,0.03);backdrop-filter:blur(6px);border-radius:12px;padding:14px;box-shadow:0 6px 18px rgba(2,6,23,0.6);">
-        <h3 style="margin:6px 0 8px 0;color:#9AE6B4;">Kubeadm Kubernetes Cluster</h3>
+        <h2 style="margin:6px 0 8px 0;color:#9AE6B4;">Kubeadm Kubernetes Cluster</h2>
         <p style="margin:0 0 8px 0;color:#cbd5e1;font-size:13px;line-height:1.3;">Hands-on kubeadm cluster creation and networking with documented steps for production readiness.</p>
         <p style="margin:8px 0;">
           <img src="https://img.shields.io/badge/Kubeadm-2B6CB0?style=flat-square&logo=kubernetes&logoColor=white" alt="kubeadm" />
           <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="NGINX" />
+          <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
         </p>
         <p style="margin-top:10px;">
           <a href="https://github.com/sagarDeepakDevOps/Kubeadm-k8s-Cluster">
@@ -168,19 +166,124 @@
         </p>
       </div>
     </td>
+ </tr>
 
+ <tr>
+<td valign="top" width="33%" style="padding:8px;">
+  <div style="background:rgba(255,255,255,0.03);backdrop-filter:blur(6px);border-radius:12px;padding:14px;box-shadow:0 6px 18px rgba(2,6,23,0.6);">
+    <h2 style="margin:6px 0 8px 0;color:#9AE6B4;">Cloud Migration</h2>
+    <p style="margin:0 0 8px 0;color:#cbd5e1;font-size:13px;line-height:1.35;">
+      Led migration of legacy on-premise workloads to cloud-native infrastructure. 
+      Designed Kubernetes-based architecture, containerized applications, and automated 
+      infrastructure provisioning using Terraform and CI/CD pipelines.  
+      Improved scalability, deployment speed, and operational reliability.
+    </p>
+    <p style="margin:8px 0;">
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+    </p>
+  </div>
+</td>
+
+  <td valign="top" width="33%" style="padding:8px;">
+  <div style="background:rgba(255,255,255,0.03);backdrop-filter:blur(6px);border-radius:12px;padding:14px;box-shadow:0 6px 18px rgba(2,6,23,0.6);">
+    <h2 style="margin:6px 0 8px 0;color:#9AE6B4;">CI/CD Implementation</h2>
+    <p style="margin:0 0 8px 0;color:#cbd5e1;font-size:13px;line-height:1.35;">
+      Designed and implemented scalable CI/CD pipelines enabling automated build, test,
+      security scanning, and Kubernetes deployments. Integrated GitOps practices to 
+      improve release reliability and reduce deployment time across multiple environments.
+    </p>
+    <p style="margin:8px 0;">
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white"/>
+    </p>
+  </div>
+</td>
 
   </tr>
+  
+<tr>  
+  <td valign="top" width="33%" style="padding:8px;">
+  <div style="background:rgba(255,255,255,0.03);backdrop-filter:blur(6px);border-radius:12px;padding:14px;box-shadow:0 6px 18px rgba(2,6,23,0.6);">
+    
+<h2 style="margin:6px 0 8px 0;color:#9AE6B4;">5 Microservices Application on Kubernetes</h2>
+
+<p style="margin:0 0 8px 0;color:#cbd5e1;font-size:13px;line-height:1.35;">
+Designed and deployed a containerized microservices application consisting of five independent services on Kubernetes. 
+Implemented Docker-based builds, Kubernetes manifests for deployments/services, and service-to-service communication. 
+Focused on scalability, fault isolation, and production-style container orchestration.
+</p>
+
+<p style="margin:8px 0;">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-FF6F00?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/DevOps-0A0A0A?style=flat-square&logo=githubactions&logoColor=white"/>
+</p>
+
+<p style="margin-top:10px;">
+<a href="https://github.com/sagarDeepakDevOps/5microservice-app">
+<img src="https://img.shields.io/badge/View%20Repository-GitHub-%23181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+  </div>
+</td>
+<td valign="top" width="33%" style="padding:8px;">
+  <div style="background:rgba(255,255,255,0.03);backdrop-filter:blur(6px);border-radius:12px;padding:14px;box-shadow:0 6px 18px rgba(2,6,23,0.6);">
+
+<h3 style="margin:6px 0 8px 0;color:#9AE6B4;">AWS EKS Infrastructure Automation</h3>
+
+<p style="margin:0 0 8px 0;color:#cbd5e1;font-size:13px;line-height:1.35;">
+End-to-end AWS infrastructure provisioning using Terraform and Ansible. 
+Automated creation of VPC networking, IAM roles, worker nodes, and a production-ready 
+Amazon EKS cluster. The setup demonstrates Infrastructure-as-Code practices for building 
+repeatable Kubernetes environments and managing cloud infrastructure at scale.
+</p>
+
+<p style="margin:8px 0;">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+</p>
+
+<p style="margin-top:10px;">
+<a href="https://github.com/sagarDeepakDevOps/terraform-ansible-eks-project">
+<img src="https://img.shields.io/badge/View%20Repository-GitHub-%23181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+  </div>
+</td>
+</tr>
 </table>
 
 ---
 
-## Activity & Stats
+## 📊 Activity & Stats
 
 <p align="center">
-  <!-- <img width="47%" src="https://github-readme-stats.vercel.app/api?username=sagarDeepakDevOps&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" /> -->
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarDeepakDevOps&theme=radical" alt="Streak" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=sagarDeepakDevOps&show_icons=true&theme=radical&count_private=true" height="170"/> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarDeepakDevOps&theme=radical" height="170"/>
 </p>
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarDeepakDevOps&layout=compact&theme=radical" height="170"/>
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sagarDeepakDevOps&theme=react-dark"/>
+</p>
+
+<!-- <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sagarDeepakDevOps&theme=radical&no-frame=true&row=1&column=6"/>
+</p> -->
 
 ---
 
