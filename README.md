@@ -306,6 +306,6 @@ If you need help with:
 <p align="center">
   <a href="mailto:sagardeepak2002@gmail.com"><img src="https://img.shields.io/badge/Email-sagardeepak2002@gmail.com-6ee7b7?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   &nbsp;
-  <a href="www.linkedin.com/in/deepak-sagar-8b6498376"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/deepak-sagar-8b6498376/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
  </p>
