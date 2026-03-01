@@ -140,7 +140,7 @@
   <tr>
     <td valign="top" width="33%" style="padding:8px;">
       <div style="background:rgba(255,255,255,0.03);backdrop-filter:blur(6px);border-radius:12px;padding:14px;box-shadow:0 6px 18px rgba(2,6,23,0.6);">
-        <h2 style="margin:6px 0 8px 0;color:#9AE6B4;">CloudForgeOps — DevOps Consulting</h2>
+        <h2 style="margin:6px 0 8px 0;color:#9AE6B4;">RelientOps — DevOps Consulting</h2>
         <p style="margin:0 0 8px 0;color:#cbd5e1;font-size:13px;line-height:1.3;">Production-ready freelance DevOps website and consultancy platform built with Next.js for client engagements.</p>
         <p style="margin:8px 0;">
           <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
@@ -148,7 +148,7 @@
           <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
         </p>
         <p style="margin-top:10px;">
-          <a href="https://github.com/YOUR_USERNAME/cloudforgeops-website" rel="nofollow">
+          <a href="https://github.com/sagarDeepakDevOps/cloudforgeops" rel="nofollow">
             <img src="https://img.shields.io/badge/View%20Repository-GitHub-%23181717?style=for-the-badge&logo=github" alt="View repo" />
           </a>
         </p>
